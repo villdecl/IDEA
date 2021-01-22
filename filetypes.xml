@@ -3,32 +3,33 @@
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="pom" type="AUTO_DETECTED" />
-      <removed_mapping ext="ng" type="HTML" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern="confirm" type="JSON" />
-      <removed_mapping pattern="bowerrc" type="JSON" />
-      <removed_mapping pattern="jest.config" type="JSON" />
-      <removed_mapping pattern=".stylelintrc" type="JSON" />
-      <removed_mapping pattern=".eslintrc" type="JSON" />
-      <removed_mapping ext="jsb2" type="JSON" />
-      <removed_mapping ext="jsb3" type="JSON" />
-      <removed_mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern="bowerrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping ext="jsb3" type="JSON" />
+      <mapping ext="jsb2" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
       <mapping pattern="adsd" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="confirm-fast.json" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".node-version" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".yarnrc" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".node-version" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".eslintignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".npmignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping pattern=".npmignore" approved="true" type="PLAIN_TEXT" />
       <mapping ext="pdm" type="BPMN_EDITOR" />
     </extensionMap>
   </component>
