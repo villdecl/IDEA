@@ -1,0 +1,88 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="calculate" />
+      <item value="Item" />
+      <item value="Index Manager" />
+      <item value="generic Interfaces" />
+      <item value="private" />
+      <item value="immutable" />
+      <item value="Origin Lookup" />
+      <item value="resolve Placeholders" />
+      <item value="resolve Required Placeholders" />
+      <item value="Packet" />
+      <item value="messageHandlers must not be null" />
+      <item value="do Optimistic Locker" />
+      <item value="Rendering Service" />
+      <item value="execute" />
+      <item value="执行器" />
+      <item value="Executor" />
+      <item value="set Task Decorator" />
+      <item value="decorate" />
+      <item value="period" />
+      <item value="throttle Limit" />
+      <item value="expect" />
+      <item value="deferred" />
+      <item value="execute Internal" />
+      <item value="Fault Tolerant Chunk Provider" />
+      <item value="nutz" />
+      <item value="disruptor" />
+      <item value="Notification" />
+      <item value="increment Recursion Depth" />
+      <item value="Event Translator" />
+      <item value="Disruptor" />
+      <item value="Async Logger Disruptor" />
+      <item value="Busy Spin Wait Strategy" />
+      <item value="barrier" />
+      <item value="YIELD" />
+      <item value="authenticate" />
+      <item value="东" />
+      <item value="Temporal Accessor" />
+      <item value="Temporal" />
+      <item value="Temporal Adjuster" />
+      <item value="is Reused" />
+      <item value="publish Event" />
+      <item value="Deliver" />
+      <item value="aopalliance" />
+      <item value="module" />
+      <item value="initially" />
+      <item value="transient" />
+      <item value="coverage" />
+      <item value="secure" />
+      <item value="dest type" />
+      <item value="set Initial Redelivery Delay" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1316" />
+        <entry key="ENGLISH" value="1294" />
+        <entry key="DANISH" value="4" />
+        <entry key="GERMAN" value="5" />
+        <entry key="FRENCH" value="17" />
+        <entry key="FILIPINO" value="5" />
+        <entry key="MALAY" value="2" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="4" />
+        <entry key="TURKISH" value="2" />
+        <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="5" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Arial" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="4118d2393502c6fc" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

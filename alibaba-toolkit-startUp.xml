@@ -1,0 +1,36 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/IDEA/shop" startUpFlag="FIRST" />
+    <entry projectPath="D:/broadcast" startUpFlag="FIRST" />
+    <entry projectPath="D:/cas-4.1.10" startUpFlag="FIRST" />
+    <entry projectPath="D:/housekeeper" startUpFlag="FIRST" />
+    <entry projectPath="D:/housekeeper-management" startUpFlag="FIRST" />
+    <entry projectPath="D:/jsonmedia-gims/jsonmedia-gims" startUpFlag="FIRST" />
+    <entry projectPath="D:/mall" startUpFlag="FIRST" />
+    <entry projectPath="D:/mimo" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/PassJava-Platform" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/RocketMQDedupListener" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/apache-activeMQ-sender-receiver" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/demo1" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/facebook-security5" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/gpmall" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/microservices-platform" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/mybatis-plus-samples" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/oauth2-demo" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/onemall" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/pig" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/rocketmq-binder-demo" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/rocketmq-demo-master-7bf1a25a2b037027f4a95826e11e60a10798458arocketmq-demo.git" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/spring-cloud-alibaba" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/spring-statemachine" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/tony-push" startUpFlag="FIRST" />
+    <entry projectPath="D:/opensource-demo/xxl-sso" startUpFlag="FIRST" />
+    <entry projectPath="D:/paascloud-master" startUpFlag="FIRST" />
+    <entry projectPath="D:/spring-cloud-alibaba/nacos" startUpFlag="FIRST" />
+    <entry projectPath="D:/spring-data-examples" startUpFlag="FIRST" />
+    <entry projectPath="D:/spring-data-redis" startUpFlag="FIRST" />
+    <entry projectPath="E:/BaiduNetdiskDownload/c2c-social-govern/c2c-social-govern" startUpFlag="FIRST" />
+    <entry projectPath="F:/mapstruct-demo" startUpFlag="FIRST" />
+  </component>
+</application>
