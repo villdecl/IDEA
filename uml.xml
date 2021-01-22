@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="layout" value="TREE" />
+    <option name="categories">
+      <map>
+        <entry id="JAVA" categories="Show One To One;Show One To Many;Show Usages;Others" />
+      </map>
+    </option>
+  </component>
+</application>

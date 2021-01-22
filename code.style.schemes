@@ -1,0 +1,16 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <option name="AUTODETECT_INDENTS" value="false" />
+        <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+        <codeStyleSettings language="JAVA">
+          <indentOptions>
+            <option name="USE_TAB_CHARACTER" value="true" />
+          </indentOptions>
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
