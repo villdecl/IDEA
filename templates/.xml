@@ -1,0 +1,22 @@
+<templateSet group="我的代码模板">
+  <template name="pmain" value="public static void main(String[] args) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="syso" value="System.out.println(&quot;$VAR1$ = &quot; + $VAR1$ + &quot;,&quot; + &quot;当前类=$CLASS_NAME$.$METHOD_NAME$()&quot;);$END$" description="打印变量值" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pub" value="public void $VAR1$($VAR2$) {&#10;&#9;$END$&#10;}" description="公共方法" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
