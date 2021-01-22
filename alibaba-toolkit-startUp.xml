@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/opensource/cas-4.1.10" startUpFlag="FIRST" />
     <entry projectPath="D:/opensource/opensource-demo/onemall" startUpFlag="FIRST" />
     <entry projectPath="D:/opensource/spring-data-examples" startUpFlag="FIRST" />
     <entry projectPath="D:/work/mimo" startUpFlag="FIRST" />
