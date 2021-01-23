@@ -57,8 +57,13 @@
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+      </list>
+    </option>
   </component>
 </application>
