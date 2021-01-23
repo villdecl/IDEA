@@ -37,6 +37,12 @@
             <Goal>
               <option name="commandLine" value="clean package -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -DskipTests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean source:jar install -DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>
