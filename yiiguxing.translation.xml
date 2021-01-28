@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bill" />
       <item value="Ecommerce Service" />
       <item value="period" />
       <item value="get Participant Process" />
@@ -22,12 +23,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611317261837" />
+    <option name="lastTrimTime" value="1611839389733" />
   </component>
 </application>
