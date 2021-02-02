@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Receipt" />
       <item value="\u 007 e" />
       <item value="Section" />
       <item value="Backslash" />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
