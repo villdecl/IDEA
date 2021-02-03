@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If Present" />
       <item value="Failure Analyzer" />
       <item value="locate" />
       <item value="post V 3 With Wechatpay Serial" />
@@ -34,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
