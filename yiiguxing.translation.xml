@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="extracted" />
       <item value="absolute" />
       <item value="get Bootstrap Resources" />
       <item value="Enumeration" />
@@ -35,7 +36,6 @@
       <item value="lane Sets" />
       <item value="Graphical" />
       <item value="Participant Process" />
-      <item value="extracted" />
       <item value="Nacos Property Source Locator" />
       <item value="terminated" />
       <item value="element" />
@@ -46,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
