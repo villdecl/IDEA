@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Bootstrap Resources" />
       <item value="Enumeration" />
       <item value="Compound" />
       <item value="Determinable" />
@@ -44,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
