@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Enumeration" />
+      <item value="Compound" />
       <item value="Determinable" />
       <item value="Determinable Imports" />
       <item value="raw" />
@@ -42,13 +44,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612322106616" />
+    <option name="lastTrimTime" value="1613702188548" />
   </component>
 </application>
