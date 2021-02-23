@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="vieid" />
       <item value="Member Signon Type" />
       <item value="Trans Outbound Invoker" />
       <item value="extracted" />
@@ -48,8 +49,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
+        <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="43" />
+        <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
