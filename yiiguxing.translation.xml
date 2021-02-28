@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="parent" />
+      <item value="receive Event" />
+      <item value="offer" />
+      <item value="Persistence" />
       <item value="extracted" />
       <item value="reduce" />
       <item value="flat" />
@@ -48,13 +52,11 @@
       <item value="element" />
       <item value="order" />
       <item value="Book" />
-      <item value="Oreder Book" />
-      <item value="book" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
