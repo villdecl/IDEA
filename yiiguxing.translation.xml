@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="decrease" />
       <item value="Constraint Violation" />
       <item value="EXTENDED STATE CHANGED" />
       <item value="actuate" />
@@ -18,7 +19,6 @@
       <item value="extracted" />
       <item value="reduce" />
       <item value="flat" />
-      <item value="decrease" />
       <item value="SHELF" />
       <item value="vieid" />
       <item value="Member Signon Type" />
@@ -55,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
