@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Under Stock" />
+      <item value="Spu Under Stock" />
+      <item value="quantity" />
+      <item value="constraints" />
+      <item value="available" />
       <item value="decrease" />
       <item value="Constraint Violation" />
       <item value="EXTENDED STATE CHANGED" />
@@ -47,16 +52,11 @@
       <item value="Bearer Http Authentication Filter" />
       <item value="authc Bearer" />
       <item value="Bill" />
-      <item value="Ecommerce Service" />
-      <item value="period" />
-      <item value="get Participant Process" />
-      <item value="Draw pool shape, if process is participant in collaboration" />
-      <item value="Draw lanes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
