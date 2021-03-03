@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Config Attribute" />
+      <item value="preauth" />
       <item value="Amount" />
       <item value="additional Amount" />
       <item value="Under Stock" />
@@ -50,14 +52,13 @@
       <item value="Section" />
       <item value="Backslash" />
       <item value="block Semicolon" />
-      <item value="Bearer" />
-      <item value="Bearer Http Authentication Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
