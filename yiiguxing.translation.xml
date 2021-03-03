@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="authentication" />
+      <item value="Authentication" />
+      <item value="Queue" />
+      <item value="user Authorities" />
       <item value="Config Attribute" />
       <item value="preauth" />
       <item value="Amount" />
@@ -48,15 +52,11 @@
       <item value="locate" />
       <item value="post V 3 With Wechatpay Serial" />
       <item value="Receipt" />
-      <item value="\u 007 e" />
-      <item value="Section" />
-      <item value="Backslash" />
-      <item value="block Semicolon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="ESTONIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
