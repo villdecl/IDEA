@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="2680" />
-    <option name="newTranslationDialogY" value="450" />
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="2506" />
+    <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="通用" />
+      <item value="general" />
+      <item value="UNIVERSAL" />
+      <item value="voucher Type" />
+      <item value="decrease" />
+      <item value="DISCOUNT" />
+      <item value="REDUCTION" />
+      <item value="DIRECT" />
       <item value="Preferential Mode" />
       <item value="preferential Mode" />
       <item value="Handle" />
@@ -34,7 +41,6 @@
       <item value="quantity" />
       <item value="constraints" />
       <item value="available" />
-      <item value="decrease" />
       <item value="Constraint Violation" />
       <item value="EXTENDED STATE CHANGED" />
       <item value="actuate" />
@@ -48,18 +54,11 @@
       <item value="receive Event" />
       <item value="offer" />
       <item value="Persistence" />
-      <item value="extracted" />
-      <item value="reduce" />
-      <item value="flat" />
-      <item value="SHELF" />
-      <item value="vieid" />
-      <item value="Member Signon Type" />
-      <item value="Trans Outbound Invoker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
