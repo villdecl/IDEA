@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="threshold Amount" />
       <item value="preferential Value" />
       <item value="greater than 0" />
       <item value="granter than" />
@@ -53,12 +54,11 @@
       <item value="set Relay" />
       <item value="subscribe" />
       <item value="Track" />
-      <item value="parent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
