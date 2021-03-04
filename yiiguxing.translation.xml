@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Preferential Mode" />
+      <item value="preferential Mode" />
       <item value="Handle" />
       <item value="stock Available" />
       <item value="discount must greater than 0" />
@@ -53,13 +55,11 @@
       <item value="vieid" />
       <item value="Member Signon Type" />
       <item value="Trans Outbound Invoker" />
-      <item value="absolute" />
-      <item value="get Bootstrap Resources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
