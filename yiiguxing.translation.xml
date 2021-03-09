@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="num" />
       <item value="infrastructure" />
       <item value="use Case" />
       <item value="Biz Scenario" />
@@ -53,16 +54,15 @@
       <item value="preauth" />
       <item value="Amount" />
       <item value="additional Amount" />
-      <item value="Spu Under Stock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
+        <entry key="CHINESE" value="107" />
         <entry key="ENGLISH" value="107" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
