@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="get Optimal Level" />
       <item value="num" />
       <item value="infrastructure" />
       <item value="use Case" />
@@ -53,12 +54,11 @@
       <item value="Config Attribute" />
       <item value="preauth" />
       <item value="Amount" />
-      <item value="additional Amount" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
