@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="Preferential" />
+      <item value="interruption Policy" />
+      <item value="Shared semaphore per step execution, so other step executions can run in parallel without needing the lock" />
+      <item value="metrics" />
+      <item value="audit" />
       <item value="threshold Amount" />
       <item value="goods Prices" />
       <item value="goodsPrice must be granter than 0" />
@@ -49,16 +54,11 @@
       <item value="greater than" />
       <item value="Promotion id can not be empty" />
       <item value="Handler" />
-      <item value="Promotion Handler" />
-      <item value="Bi Consumer" />
-      <item value="Supplier" />
-      <item value="Predicate" />
-      <item value="authentication" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
