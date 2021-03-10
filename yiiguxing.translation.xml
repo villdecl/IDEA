@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="threshold Amount" />
       <item value="goods Prices" />
       <item value="goodsPrice must be granter than 0" />
       <item value="calculation" />
@@ -25,7 +26,6 @@
       <item value="constraint" />
       <item value="Constraint" />
       <item value="intersect" />
-      <item value="threshold Amount" />
       <item value="preferential Value" />
       <item value="greater than 0" />
       <item value="granter than" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
