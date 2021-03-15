@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="AVAILABLE" />
       <item value="Fetch" />
       <item value="Delegating Security Context Scheduling Task Executor" />
       <item value="Schedul" />
@@ -53,12 +54,11 @@
       <item value="DIRECT" />
       <item value="Preferential Mode" />
       <item value="preferential Mode" />
-      <item value="Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
