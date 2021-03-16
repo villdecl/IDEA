@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transient" />
       <item value="Fill" />
       <item value="Repeat Operations" />
       <item value="Bill" />
@@ -54,12 +55,11 @@
       <item value="preferential Value" />
       <item value="greater than 0" />
       <item value="granter than" />
-      <item value="preferential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
