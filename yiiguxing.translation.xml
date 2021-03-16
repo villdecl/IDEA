@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="预订&#10;" />
+      <item value="遇到" />
+      <item value="图书" />
+      <item value="books" />
       <item value="AVAILABLE" />
       <item value="Fetch" />
       <item value="Delegating Security Context Scheduling Task Executor" />
@@ -50,15 +55,11 @@
       <item value="voucher Type" />
       <item value="decrease" />
       <item value="DISCOUNT" />
-      <item value="REDUCTION" />
-      <item value="DIRECT" />
-      <item value="Preferential Mode" />
-      <item value="preferential Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
