@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="relative Row Index" />
       <item value="Holder" />
       <item value="write Sheet Holder" />
       <item value="Extended windows meta file" />
@@ -54,12 +55,11 @@
       <item value="Biz Scenario" />
       <item value="Metric Item Created Event" />
       <item value="login User Privilege" />
-      <item value="Constraint Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
