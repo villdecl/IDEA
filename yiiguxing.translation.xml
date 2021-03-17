@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Holder" />
+      <item value="write Sheet Holder" />
+      <item value="Extended windows meta file" />
+      <item value="Workbook" />
+      <item value="sheet No" />
       <item value="increment And Get" />
       <item value="Analysis Context" />
       <item value="Record" />
@@ -50,16 +55,11 @@
       <item value="Metric Item Created Event" />
       <item value="login User Privilege" />
       <item value="Constraint Type" />
-      <item value="o Btain" />
-      <item value="Subtotal" />
-      <item value="Under Stock" />
-      <item value="SPU UNDER STOCK" />
-      <item value="constraint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
