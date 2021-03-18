@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="REGISTER BEAN" />
+      <item value="PARSE CONFIGURATION" />
+      <item value="Configuration Phase" />
+      <item value="QUOTE" />
+      <item value="enclosing Class Name" />
       <item value="interactive Mode" />
       <item value="having Value" />
       <item value="relative Row Index" />
@@ -50,16 +55,11 @@
       <item value="Pipeline" />
       <item value="if Present" />
       <item value="Decrease" />
-      <item value="get Optimal Level" />
-      <item value="num" />
-      <item value="infrastructure" />
-      <item value="use Case" />
-      <item value="Biz Scenario" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
