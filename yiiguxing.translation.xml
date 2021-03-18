@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="metrics" />
       <item value="Modular" />
       <item value="Generic Scope" />
       <item value="Introduction Advisor" />
@@ -54,12 +55,11 @@
       <item value="Preferential" />
       <item value="interruption Policy" />
       <item value="Shared semaphore per step execution, so other step executions can run in parallel without needing the lock" />
-      <item value="metrics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
