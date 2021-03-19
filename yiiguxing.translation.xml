@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="expire" />
       <item value="Transaction Hook" />
       <item value="This state prevents the branch transaction from inserting undo_log after the global transaction is rolled back." />
       <item value="This state can be properly rolled back by services" />
@@ -54,12 +55,11 @@
       <item value="Fetch" />
       <item value="Delegating Security Context Scheduling Task Executor" />
       <item value="Schedul" />
-      <item value="Scheduling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
