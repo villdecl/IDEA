@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="acquire Channel" />
+      <item value="Duplicate" />
       <item value="Rate" />
       <item value="sql Recognizer" />
       <item value="enable Degrade" />
@@ -53,13 +55,11 @@
       <item value="Order Bill Event" />
       <item value="Bill Order Event" />
       <item value="Order Bill" />
-      <item value="预订&#10;" />
-      <item value="遇到" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
