@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rate" />
       <item value="sql Recognizer" />
       <item value="enable Degrade" />
       <item value="compressor" />
@@ -54,12 +55,11 @@
       <item value="Order Bill" />
       <item value="预订&#10;" />
       <item value="遇到" />
-      <item value="图书" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
