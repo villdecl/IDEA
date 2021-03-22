@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Latest Config" />
+      <item value="please don't set multiple addresses" />
       <item value="disable seata" />
       <item value="degrade, current not support" />
       <item value="transaction service group mapping" />
@@ -53,13 +55,11 @@
       <item value="Record" />
       <item value="Add a package name prefix if the name is not absolute Remove leading &quot;&quot; if name is absolute" />
       <item value="transient" />
-      <item value="Fill" />
-      <item value="Repeat Operations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
