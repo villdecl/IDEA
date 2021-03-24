@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Content Negotiation Strategy" />
       <item value="fire Event" />
       <item value="Alteration" />
       <item value="Alteration I" />
@@ -54,12 +55,11 @@
       <item value="interactive Mode" />
       <item value="having Value" />
       <item value="relative Row Index" />
-      <item value="Holder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
