@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Asset Consumption Manger" />
       <item value="Purchase Return Event" />
       <item value="get Latest Config" />
       <item value="please don't set multiple addresses" />
@@ -54,12 +55,11 @@
       <item value="increment And Get" />
       <item value="Analysis Context" />
       <item value="Record" />
-      <item value="Add a package name prefix if the name is not absolute Remove leading &quot;&quot; if name is absolute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
