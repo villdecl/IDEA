@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="enhance" />
       <item value="is Authenticated" />
       <item value="configurer.get Token Key Access()" />
       <item value="unified Order" />
@@ -54,12 +55,11 @@
       <item value="Aspect J" />
       <item value="REGISTER BEAN" />
       <item value="PARSE CONFIGURATION" />
-      <item value="Configuration Phase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
