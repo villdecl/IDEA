@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="terminated" />
+      <item value="Caller Runs Policy" />
+      <item value="Abort" />
+      <item value="Abort Policy With Report" />
       <item value="Convenient proxy factory bean for scoped objects." />
       <item value="decorated Definition" />
       <item value="Cache the merged bean definition for the time being" />
@@ -51,18 +55,14 @@
       <item value="Transaction Hook" />
       <item value="This state prevents the branch transaction from inserting undo_log after the global transaction is rolled back." />
       <item value="This state can be properly rolled back by services" />
-      <item value="resume" />
-      <item value="No Available Service" />
-      <item value="exclude" />
-      <item value="predict Bean Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="TELUGU" value="1" />
         <entry key="HINDI" value="1" />
