@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="authenticate" />
       <item value="O Auth" />
       <item value="Indicates whether or not the proxy should be frozen. Overridden from super to prevent the configuration from becoming frozen too early." />
       <item value="freeze Proxy" />
@@ -54,12 +55,11 @@
       <item value="Rate" />
       <item value="sql Recognizer" />
       <item value="enable Degrade" />
-      <item value="compressor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
