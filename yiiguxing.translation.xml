@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="expected Mod Count" />
+      <item value="mod Count" />
       <item value="is associated with a particular target instance" />
       <item value="Return whether this advice is associated with a particular instance" />
       <item value="Introduction" />
@@ -53,13 +55,11 @@
       <item value="please don't set multiple addresses" />
       <item value="disable seata" />
       <item value="degrade, current not support" />
-      <item value="transaction service group mapping" />
-      <item value="get Service Name()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
