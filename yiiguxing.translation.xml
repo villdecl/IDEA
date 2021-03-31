@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is associated with a particular target instance" />
+      <item value="Return whether this advice is associated with a particular instance" />
+      <item value="Introduction" />
+      <item value="Introduction Advisor" />
+      <item value="Advice" />
       <item value="authenticate" />
       <item value="O Auth" />
       <item value="Indicates whether or not the proxy should be frozen. Overridden from super to prevent the configuration from becoming frozen too early." />
@@ -50,16 +55,11 @@
       <item value="degrade, current not support" />
       <item value="transaction service group mapping" />
       <item value="get Service Name()" />
-      <item value="acquire Channel" />
-      <item value="Duplicate" />
-      <item value="Rate" />
-      <item value="sql Recognizer" />
-      <item value="enable Degrade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
