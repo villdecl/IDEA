@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="impact" />
       <item value="validator" />
       <item value="violations" />
       <item value="cashier" />
@@ -54,12 +55,11 @@
       <item value="Content Negotiation Strategy" />
       <item value="fire Event" />
       <item value="Alteration" />
-      <item value="Alteration I" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
