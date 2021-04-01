@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Millis" />
+      <item value="of Millis" />
       <item value="absent" />
       <item value="Authentication Trust Resolver" />
       <item value="guard" />
@@ -53,13 +55,11 @@
       <item value="Granted" />
       <item value="credentials Non Expired" />
       <item value="account Non Expired" />
-      <item value="Asset Consumption Manger" />
-      <item value="Purchase Return Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
@@ -67,6 +67,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
