@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Approved" />
+      <item value="get User Approval Page Response" />
+      <item value="autowire Bean" />
       <item value="optimal" />
       <item value="recommend" />
       <item value="impact" />
@@ -52,14 +55,11 @@
       <item value="is Authenticated" />
       <item value="configurer.get Token Key Access()" />
       <item value="unified Order" />
-      <item value="Pay Score Service" />
-      <item value="infrastructure" />
-      <item value="Content Negotiation Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
