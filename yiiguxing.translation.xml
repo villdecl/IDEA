@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Get invokers from cache, only runtime routers will be executed." />
       <item value="length of character sequence is evaluated" />
       <item value="destination Url" />
       <item value="is Approved" />
@@ -54,12 +55,11 @@
       <item value="Affirmative Based" />
       <item value="REPETITION" />
       <item value="enhance" />
-      <item value="is Authenticated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
