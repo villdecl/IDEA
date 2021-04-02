@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ABSTAIN" />
       <item value="poll" />
       <item value="Get invokers from cache, only runtime routers will be executed." />
       <item value="length of character sequence is evaluated" />
@@ -54,12 +55,11 @@
       <item value="Unanimous Based" />
       <item value="Consensus Based" />
       <item value="Affirmative Based" />
-      <item value="REPETITION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
