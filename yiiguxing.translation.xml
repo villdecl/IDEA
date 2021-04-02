@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="destination Url" />
       <item value="is Approved" />
       <item value="get User Approval Page Response" />
       <item value="autowire Bean" />
@@ -54,12 +55,11 @@
       <item value="enhance" />
       <item value="is Authenticated" />
       <item value="configurer.get Token Key Access()" />
-      <item value="unified Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
