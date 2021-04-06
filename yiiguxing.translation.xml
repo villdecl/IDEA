@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unmodifiable Map" />
+      <item value="get All Service Keys" />
       <item value="locate" />
       <item value="applicable" />
       <item value="List of names of manually registered singletons, in registration order" />
@@ -53,13 +55,11 @@
       <item value="freeze Proxy" />
       <item value="Determine whether the aspect bean with the given name is eligible." />
       <item value="is Eligible Bean" />
-      <item value="Whitelabel Approval Endpoint" />
-      <item value="terminated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="2" />
