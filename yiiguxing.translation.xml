@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lang" />
       <item value="Host Reactor" />
       <item value="consistency" />
       <item value="dump Task Interval" />
@@ -54,11 +55,10 @@
       <item value="Environment Capable" />
       <item value="OpenID Connect requests MUST contain the &quot;openid&quot; scope value." />
       <item value="Approval" />
-      <item value="ABSTAIN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
+        <entry key="CHINESE" value="307" />
         <entry key="ENGLISH" value="306" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />

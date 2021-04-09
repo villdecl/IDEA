@@ -49,6 +49,9 @@
             <Goal>
               <option name="commandLine" value="clean --debug" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean repackage" />
+            </Goal>
           </list>
         </option>
       </Goals>
