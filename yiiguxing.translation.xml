@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="consistency" />
+      <item value="dump Task Interval" />
+      <item value="share Publisher" />
+      <item value="Unified Event Notify Center." />
+      <item value="forbidden" />
+      <item value="Forbid" />
+      <item value="the number of elements transferred" />
+      <item value="transferred" />
+      <item value="Removes at most the given number of available elements from this queue and adds them to the given collection." />
+      <item value="drain To" />
+      <item value="offer" />
+      <item value="Scheduling Task Executor" />
+      <item value="watch Future" />
       <item value="You can graceful shutdown now." />
       <item value="ensure" />
       <item value="offset" />
@@ -42,24 +55,11 @@
       <item value="Approval" />
       <item value="ABSTAIN" />
       <item value="poll" />
-      <item value="Get invokers from cache, only runtime routers will be executed." />
-      <item value="length of character sequence is evaluated" />
-      <item value="destination Url" />
-      <item value="is Approved" />
-      <item value="get User Approval Page Response" />
-      <item value="autowire Bean" />
-      <item value="optimal" />
-      <item value="recommend" />
-      <item value="impact" />
-      <item value="validator" />
-      <item value="violations" />
-      <item value="cashier" />
-      <item value="EXCESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="305" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
