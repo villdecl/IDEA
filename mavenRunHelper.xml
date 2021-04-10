@@ -52,6 +52,9 @@
             <Goal>
               <option name="commandLine" value="clean repackage" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="package -DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>
