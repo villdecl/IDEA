@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="expose" />
+      <item value="guess" />
       <item value="Deque" />
       <item value="the next line does the binding" />
       <item value="binding" />
@@ -53,13 +55,11 @@
       <item value="is Eager Init" />
       <item value="freeze Configuration" />
       <item value="temporary" />
-      <item value="Load Time Weaver Aware" />
-      <item value="has Embedded Value Resolver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
@@ -74,6 +74,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617695529023" />
+    <option name="lastTrimTime" value="1618206736380" />
   </component>
 </application>
