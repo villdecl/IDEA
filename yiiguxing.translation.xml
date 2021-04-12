@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Migration" />
+      <item value="set Threshold" />
+      <item value="Configurator" />
       <item value="enhance" />
       <item value="jwt Token Enhancer" />
       <item value="expose" />
@@ -52,14 +55,11 @@
       <item value="unmodifiable Map" />
       <item value="get All Service Keys" />
       <item value="locate" />
-      <item value="applicable" />
-      <item value="List of names of manually registered singletons, in registration order" />
-      <item value="is Eager Init" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="319" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
