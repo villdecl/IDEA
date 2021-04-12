@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Deque" />
       <item value="the next line does the binding" />
       <item value="binding" />
       <item value="perform Initialization" />
@@ -54,15 +55,15 @@
       <item value="temporary" />
       <item value="Load Time Weaver Aware" />
       <item value="has Embedded Value Resolver" />
-      <item value="Publish event via parent context as well..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
+        <entry key="CHINESE" value="312" />
         <entry key="ENGLISH" value="312" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
+        <entry key="LATIN" value="2" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="TELUGU" value="1" />
