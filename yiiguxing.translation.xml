@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="user Consent Matcher" />
       <item value="Migration" />
       <item value="set Threshold" />
       <item value="Configurator" />
@@ -54,12 +55,11 @@
       <item value="Aware" />
       <item value="unmodifiable Map" />
       <item value="get All Service Keys" />
-      <item value="locate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
