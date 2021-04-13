@@ -18,8 +18,8 @@
     <mask>spring.factories</mask>
     <mask>*.sql</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
