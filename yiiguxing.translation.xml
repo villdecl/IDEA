@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Generics array must not be null" />
       <item value="user Consent Matcher" />
       <item value="Migration" />
       <item value="set Threshold" />
@@ -54,12 +55,11 @@
       <item value="Proxy Processor Support" />
       <item value="Aware" />
       <item value="unmodifiable Map" />
-      <item value="get All Service Keys" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
