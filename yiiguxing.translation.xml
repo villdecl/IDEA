@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get If Unique" />
+      <item value="get If Available" />
       <item value="initially an empty list of converters" />
       <item value="the list of configured converters to extend." />
       <item value="unsuccessful Authentication" />
@@ -53,13 +55,11 @@
       <item value="commence" />
       <item value="proxy Receptor Request" />
       <item value="statement" />
-      <item value="Atomic Boolean" />
-      <item value="Reuse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
