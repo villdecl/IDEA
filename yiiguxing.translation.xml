@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unsuccessful Authentication" />
       <item value="as of 5.0 {@link WebMvcConfigurer} has default methods (made possible by a Java 8 baseline) and can be implemented directly without the need for this adapter" />
       <item value="Constants" />
       <item value="Constanta" />
@@ -54,12 +55,11 @@
       <item value="Reuse" />
       <item value="Listable" />
       <item value="Injection" />
-      <item value="converted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
