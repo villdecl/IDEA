@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="initially an empty list of converters" />
+      <item value="the list of configured converters to extend." />
       <item value="unsuccessful Authentication" />
       <item value="as of 5.0 {@link WebMvcConfigurer} has default methods (made possible by a Java 8 baseline) and can be implemented directly without the need for this adapter" />
       <item value="Constants" />
@@ -53,13 +55,11 @@
       <item value="statement" />
       <item value="Atomic Boolean" />
       <item value="Reuse" />
-      <item value="Listable" />
-      <item value="Injection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618206736380" />
+    <option name="lastTrimTime" value="1618653974902" />
   </component>
 </application>
