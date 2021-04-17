@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Variable Resolver" />
+      <item value="get Generic Interfaces" />
       <item value="get If Unique" />
       <item value="get If Available" />
       <item value="initially an empty list of converters" />
@@ -53,13 +55,11 @@
       <item value="will not be available" />
       <item value="SECONDS" />
       <item value="commence" />
-      <item value="proxy Receptor Request" />
-      <item value="statement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="329" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
@@ -68,6 +68,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="TELUGU" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
