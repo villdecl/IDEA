@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The expression {parent.version} is deprecated." />
+      <item value="It is highly recommended to fix these problems because they threaten the stability of your build." />
       <item value="Cache period for the resources served by the resource handler. If a duration suffix is not specified, seconds will be used. Can be overridden by the 'spring.resources.cache.cachecontrol' properties." />
       <item value="resolver.contains Property(key)" />
       <item value="determine Outcome" />
@@ -53,13 +55,11 @@
       <item value="offer" />
       <item value="Scheduling Task Executor" />
       <item value="watch Future" />
-      <item value="You can graceful shutdown now." />
-      <item value="ensure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
