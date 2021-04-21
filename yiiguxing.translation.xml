@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="collecting And Then" />
       <item value="Circular Import Problem" />
       <item value="is Assignable" />
       <item value="Process the supplied data element. Will not be called with any null items in normal operation." />
@@ -54,12 +55,11 @@
       <item value="Forbid" />
       <item value="the number of elements transferred" />
       <item value="transferred" />
-      <item value="Removes at most the given number of available elements from this queue and adds them to the given collection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
