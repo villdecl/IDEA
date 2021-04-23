@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="coyote Request" />
+      <item value="process Authorization Response" />
+      <item value="require User Consent" />
+      <item value="don't retain ref while waiting" />
+      <item value="Priority Queue" />
+      <item value="drain To" />
+      <item value="offer" />
+      <item value="has Any Authority Name" />
+      <item value="Mutable User" />
+      <item value="experimental" />
       <item value="collecting And Then" />
       <item value="Circular Import Problem" />
       <item value="is Assignable" />
@@ -45,16 +55,6 @@
       <item value="perform Initialization" />
       <item value="established" />
       <item value="declaration" />
-      <item value="lang" />
-      <item value="Host Reactor" />
-      <item value="consistency" />
-      <item value="dump Task Interval" />
-      <item value="share Publisher" />
-      <item value="Unified Event Notify Center." />
-      <item value="forbidden" />
-      <item value="Forbid" />
-      <item value="the number of elements transferred" />
-      <item value="transferred" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618653974902" />
+    <option name="lastTrimTime" value="1619086631912" />
   </component>
 </application>
