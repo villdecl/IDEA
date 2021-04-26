@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/cola-cloud" startUpFlag="FIRST" />
     <entry projectPath="D:/demo" startUpFlag="FIRST" />
     <entry projectPath="D:/mimo" startUpFlag="FIRST" />
     <entry projectPath="D:/opensource/JavaCoreB2" startUpFlag="FIRST" />

@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="attachment" />
+      <item value="MAINTAINER" />
+      <item value="Stores additional details about the authentication request" />
+      <item value="The identity of the principal being authenticated" />
+      <item value="get Principal" />
+      <item value="get Authorities" />
+      <item value="Oidc Provider Configuration Endpoint Filter" />
+      <item value="require Csrf Protection Matcher" />
+      <item value="force Eager Session Creation" />
+      <item value="retrieve" />
+      <item value="Authorized Client Service O Auth 2 Authorized Client Manager" />
+      <item value="principal Name" />
+      <item value="Client Registration" />
+      <item value="Modular Batch Configuration" />
+      <item value="May be used on any class directly or indirectly annotated with {@link org.springframework.stereotype.Component} or on methods annotated with {@link Bean}." />
+      <item value="Executes the Runnable immediately after the build takes place" />
+      <item value="post Build Action" />
+      <item value="This may include sensitive information" />
+      <item value="bearer Token Resolver" />
+      <item value="perform" />
+      <item value="perform Build" />
       <item value="coyote Request" />
       <item value="process Authorization Response" />
       <item value="require User Consent" />
@@ -34,27 +55,6 @@
       <item value="get Generic Interfaces" />
       <item value="get If Unique" />
       <item value="get If Available" />
-      <item value="initially an empty list of converters" />
-      <item value="the list of configured converters to extend." />
-      <item value="unsuccessful Authentication" />
-      <item value="as of 5.0 {@link WebMvcConfigurer} has default methods (made possible by a Java 8 baseline) and can be implemented directly without the need for this adapter" />
-      <item value="Constants" />
-      <item value="Constanta" />
-      <item value="Generics array must not be null" />
-      <item value="user Consent Matcher" />
-      <item value="Migration" />
-      <item value="set Threshold" />
-      <item value="Configurator" />
-      <item value="enhance" />
-      <item value="jwt Token Enhancer" />
-      <item value="expose" />
-      <item value="guess" />
-      <item value="Deque" />
-      <item value="the next line does the binding" />
-      <item value="binding" />
-      <item value="perform Initialization" />
-      <item value="established" />
-      <item value="declaration" />
     </histories>
     <option name="languageScores">
       <map>
