@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prefer-ip-address" />
+      <item value="logistics" />
       <item value="attachment" />
       <item value="MAINTAINER" />
       <item value="Stores additional details about the authentication request" />
@@ -53,8 +55,6 @@
       <item value="increment" />
       <item value="Variable Resolver" />
       <item value="get Generic Interfaces" />
-      <item value="get If Unique" />
-      <item value="get If Available" />
     </histories>
     <option name="languageScores">
       <map>
