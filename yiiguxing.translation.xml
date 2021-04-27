@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Evaluator" />
+      <item value="Permission Evaluator" />
       <item value="is Authorization Response" />
       <item value="throwable Analyzer" />
       <item value="Sign Up" />
@@ -53,8 +55,6 @@
       <item value="determine Outcome" />
       <item value="No URLs will be polled as dynamic configuration sources." />
       <item value="Message Digest" />
-      <item value="is Identifying" />
-      <item value="increment And Get" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619086631912" />
+    <option name="lastTrimTime" value="1619521796933" />
   </component>
 </application>
