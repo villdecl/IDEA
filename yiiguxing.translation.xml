@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="O Auth 2 Authorization Code Grant Filter" />
+      <item value="calculate Redirect Url" />
+      <item value="Relative" />
+      <item value="context Relative" />
+      <item value="Decides if a URL is absolute based on whether it contains a valid scheme name, as defined in RFC 1738." />
+      <item value="assign" />
+      <item value="Task Assignment Handler" />
+      <item value="introspection" />
+      <item value="require User Consent" />
       <item value="Evaluator" />
       <item value="Permission Evaluator" />
       <item value="is Authorization Response" />
@@ -35,7 +44,6 @@
       <item value="perform Build" />
       <item value="coyote Request" />
       <item value="process Authorization Response" />
-      <item value="require User Consent" />
       <item value="don't retain ref while waiting" />
       <item value="Priority Queue" />
       <item value="drain To" />
@@ -47,14 +55,6 @@
       <item value="Circular Import Problem" />
       <item value="is Assignable" />
       <item value="Process the supplied data element. Will not be called with any null items in normal operation." />
-      <item value="The expression {parent.version} is deprecated" />
-      <item value="The expression {parent.version} is deprecated." />
-      <item value="It is highly recommended to fix these problems because they threaten the stability of your build." />
-      <item value="Cache period for the resources served by the resource handler. If a duration suffix is not specified, seconds will be used. Can be overridden by the 'spring.resources.cache.cachecontrol' properties." />
-      <item value="resolver.contains Property(key)" />
-      <item value="determine Outcome" />
-      <item value="No URLs will be polled as dynamic configuration sources." />
-      <item value="Message Digest" />
     </histories>
     <option name="languageScores">
       <map>
