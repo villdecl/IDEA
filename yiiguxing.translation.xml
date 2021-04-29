@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Principal Authenticated" />
+      <item value="revoke" />
       <item value="allot Spu Decrease" />
       <item value="Used to identify a CAS request for a stateless user agent, such as a remoting protocol client (e.g. Hessian, Burlap, SOAP etc). Results in a more aggressive caching strategy being used, as the absence of a &lt;code&gt;HttpSession&lt;code&gt; will result in a new authentication attempt on every request." />
       <item value="Used to identify a CAS request for a stateful user agent, such as a web browser" />
@@ -53,8 +55,6 @@
       <item value="perform" />
       <item value="perform Build" />
       <item value="coyote Request" />
-      <item value="process Authorization Response" />
-      <item value="don't retain ref while waiting" />
     </histories>
     <option name="languageScores">
       <map>
