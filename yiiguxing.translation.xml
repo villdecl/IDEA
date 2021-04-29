@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="issuer" />
       <item value="is Principal Authenticated" />
       <item value="revoke" />
       <item value="allot Spu Decrease" />
@@ -54,7 +55,6 @@
       <item value="bearer Token Resolver" />
       <item value="perform" />
       <item value="perform Build" />
-      <item value="coyote Request" />
     </histories>
     <option name="languageScores">
       <map>
