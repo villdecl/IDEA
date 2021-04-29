@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Used to identify a CAS request for a stateless user agent, such as a remoting protocol client (e.g. Hessian, Burlap, SOAP etc). Results in a more aggressive caching strategy being used, as the absence of a &lt;code&gt;HttpSession&lt;code&gt; will result in a new authentication attempt on every request." />
+      <item value="Used to identify a CAS request for a stateful user agent, such as a web browser" />
+      <item value="CAS STATEFUL IDENTIFIER" />
+      <item value="return immediately as subclass has indicated that it hasn't completed" />
+      <item value="attempt Authentication" />
+      <item value="Writing leftover bytes" />
+      <item value="user Consent Matcher" />
+      <item value="Securing" />
+      <item value="oidc" />
       <item value="O Auth 2 Authorization Code Grant Filter" />
       <item value="calculate Redirect Url" />
       <item value="Relative" />
@@ -46,15 +55,6 @@
       <item value="process Authorization Response" />
       <item value="don't retain ref while waiting" />
       <item value="Priority Queue" />
-      <item value="drain To" />
-      <item value="offer" />
-      <item value="has Any Authority Name" />
-      <item value="Mutable User" />
-      <item value="experimental" />
-      <item value="collecting And Then" />
-      <item value="Circular Import Problem" />
-      <item value="is Assignable" />
-      <item value="Process the supplied data element. Will not be called with any null items in normal operation." />
     </histories>
     <option name="languageScores">
       <map>
