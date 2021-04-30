@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A {@code Filter} for the OAuth 2.0 Authorization Code Grant, which handles the processing of the OAuth 2.0 Authorization Response." />
+      <item value="Authorization Code Grant" />
+      <item value="Grant" />
+      <item value="This {@code Filter} initiates the authorization code grant or implicit grant flow by redirecting the End-User's user-agent to the Authorization Server's Authorization Endpoint. &lt;p&gt; It builds the OAuth 2.0 Authorization Request, which is used as the redirect {@code URI} to the Authorization Endpoint. The redirect {@code URI} will include the client identifier, requested scope(s), state, response type, and a redirection URI which the authorization server will send the user-agent back to once access is granted (or denied) by the End-User (Resource Owner). &lt;p&gt; By default, this {@code Filter} responds to authorization requests at the {@code URI} {@code oauth2authorization{registrationId}} using the default {@link OAuth2AuthorizationRequestResolver}. The {@code URI} template variable {@code {registrationId}} represents the {@link ClientRegistrationgetRegistrationId() registration identifier} of the client that is used for initiating the OAuth 2.0 Authorization Request. &lt;p&gt; The default base {@code URI} {@code oauth2authorization} may be overridden via the constructor {@link OAuth2AuthorizationRequestRedirectFilter(ClientRegistrationRepository, String)}, or alternatively, an {@code OAuth2AuthorizationRequestResolver} may be provided to the constructor {@link OAuth2AuthorizationRequestRedirectFilter(OAuth2AuthorizationRequestResolver)} to override the resolving of authorization requests." />
+      <item value="REGISTRATION ID" />
       <item value="Security Context Holder Aware Request Filter" />
       <item value="resolve Lazily" />
       <item value="Standard Multipart Http Servlet Request" />
@@ -50,11 +55,6 @@
       <item value="prefer-ip-address" />
       <item value="logistics" />
       <item value="attachment" />
-      <item value="MAINTAINER" />
-      <item value="Stores additional details about the authentication request" />
-      <item value="The identity of the principal being authenticated" />
-      <item value="get Principal" />
-      <item value="get Authorities" />
     </histories>
     <option name="languageScores">
       <map>
