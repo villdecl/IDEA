@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Authorization URI for the provider" />
       <item value="scheme" />
       <item value="Authorization URI for the provider." />
       <item value="issuer" />
@@ -54,7 +55,6 @@
       <item value="Executes the Runnable immediately after the build takes place" />
       <item value="post Build Action" />
       <item value="This may include sensitive information" />
-      <item value="bearer Token Resolver" />
     </histories>
     <option name="languageScores">
       <map>
