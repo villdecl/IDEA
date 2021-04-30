@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="but was actually of type" />
+      <item value="Authorization Request Repository" />
+      <item value="Client Registration Repository" />
+      <item value="persistence" />
+      <item value="Authentication" />
+      <item value="SPRING SECURITY LAST EXCEPTION" />
+      <item value="EXCEPTION" />
+      <item value="the bound of the types of Objects this {@link ObjectPostProcessor} supports." />
       <item value="Authorization URI for the provider" />
       <item value="scheme" />
       <item value="Authorization URI for the provider." />
@@ -47,14 +55,6 @@
       <item value="require Csrf Protection Matcher" />
       <item value="force Eager Session Creation" />
       <item value="retrieve" />
-      <item value="Authorized Client Service O Auth 2 Authorized Client Manager" />
-      <item value="principal Name" />
-      <item value="Client Registration" />
-      <item value="Modular Batch Configuration" />
-      <item value="May be used on any class directly or indirectly annotated with {@link org.springframework.stereotype.Component} or on methods annotated with {@link Bean}." />
-      <item value="Executes the Runnable immediately after the build takes place" />
-      <item value="post Build Action" />
-      <item value="This may include sensitive information" />
     </histories>
     <option name="languageScores">
       <map>
