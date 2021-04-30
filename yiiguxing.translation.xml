@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Security Context Holder Aware Request Filter" />
+      <item value="resolve Lazily" />
+      <item value="Standard Multipart Http Servlet Request" />
+      <item value="get Multipart Resolver" />
       <item value="but was actually of type" />
       <item value="Authorization Request Repository" />
       <item value="Client Registration Repository" />
@@ -51,10 +55,6 @@
       <item value="The identity of the principal being authenticated" />
       <item value="get Principal" />
       <item value="get Authorities" />
-      <item value="Oidc Provider Configuration Endpoint Filter" />
-      <item value="require Csrf Protection Matcher" />
-      <item value="force Eager Session Creation" />
-      <item value="retrieve" />
     </histories>
     <option name="languageScores">
       <map>
