@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="scheme" />
+      <item value="Authorization URI for the provider." />
       <item value="issuer" />
       <item value="is Principal Authenticated" />
       <item value="revoke" />
@@ -53,8 +55,6 @@
       <item value="post Build Action" />
       <item value="This may include sensitive information" />
       <item value="bearer Token Resolver" />
-      <item value="perform" />
-      <item value="perform Build" />
     </histories>
     <option name="languageScores">
       <map>
