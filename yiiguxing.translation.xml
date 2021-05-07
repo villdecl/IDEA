@@ -5,56 +5,56 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="A {@code Filter} for the OAuth 2.0 Authorization Code Grant, which handles the processing of the OAuth 2.0 Authorization Response." />
-      <item value="Authorization Code Grant" />
-      <item value="Grant" />
-      <item value="This {@code Filter} initiates the authorization code grant or implicit grant flow by redirecting the End-User's user-agent to the Authorization Server's Authorization Endpoint. &lt;p&gt; It builds the OAuth 2.0 Authorization Request, which is used as the redirect {@code URI} to the Authorization Endpoint. The redirect {@code URI} will include the client identifier, requested scope(s), state, response type, and a redirection URI which the authorization server will send the user-agent back to once access is granted (or denied) by the End-User (Resource Owner). &lt;p&gt; By default, this {@code Filter} responds to authorization requests at the {@code URI} {@code oauth2authorization{registrationId}} using the default {@link OAuth2AuthorizationRequestResolver}. The {@code URI} template variable {@code {registrationId}} represents the {@link ClientRegistrationgetRegistrationId() registration identifier} of the client that is used for initiating the OAuth 2.0 Authorization Request. &lt;p&gt; The default base {@code URI} {@code oauth2authorization} may be overridden via the constructor {@link OAuth2AuthorizationRequestRedirectFilter(ClientRegistrationRepository, String)}, or alternatively, an {@code OAuth2AuthorizationRequestResolver} may be provided to the constructor {@link OAuth2AuthorizationRequestRedirectFilter(OAuth2AuthorizationRequestResolver)} to override the resolving of authorization requests." />
-      <item value="REGISTRATION ID" />
-      <item value="Security Context Holder Aware Request Filter" />
-      <item value="resolve Lazily" />
-      <item value="Standard Multipart Http Servlet Request" />
-      <item value="get Multipart Resolver" />
-      <item value="but was actually of type" />
-      <item value="Authorization Request Repository" />
-      <item value="Client Registration Repository" />
-      <item value="persistence" />
-      <item value="Authentication" />
-      <item value="SPRING SECURITY LAST EXCEPTION" />
-      <item value="EXCEPTION" />
-      <item value="the bound of the types of Objects this {@link ObjectPostProcessor} supports." />
-      <item value="Authorization URI for the provider" />
-      <item value="scheme" />
-      <item value="Authorization URI for the provider." />
-      <item value="issuer" />
-      <item value="is Principal Authenticated" />
-      <item value="revoke" />
-      <item value="allot Spu Decrease" />
-      <item value="Used to identify a CAS request for a stateless user agent, such as a remoting protocol client (e.g. Hessian, Burlap, SOAP etc). Results in a more aggressive caching strategy being used, as the absence of a &lt;code&gt;HttpSession&lt;code&gt; will result in a new authentication attempt on every request." />
-      <item value="Used to identify a CAS request for a stateful user agent, such as a web browser" />
-      <item value="CAS STATEFUL IDENTIFIER" />
-      <item value="return immediately as subclass has indicated that it hasn't completed" />
+      <item value="largest Pool Size" />
+      <item value="TIDYING" />
+      <item value="NESTED" />
+      <item value="Abort Policy" />
+      <item value="drain Queue" />
+      <item value="is Periodic" />
+      <item value="ensure Prestart" />
+      <item value="scheduling" />
+      <item value="schedule At Fixed Rate" />
+      <item value="schedule With Fixed Delay" />
+      <item value="Termination" />
+      <item value="await Termination" />
+      <item value="is Terminated" />
+      <item value="period" />
+      <item value="mod Count" />
+      <item value="Performs" />
+      <item value="Performs lock." />
+      <item value="interrupt" />
+      <item value="Abstract Queued Synchronizer" />
+      <item value="Performs lock. Try immediate barge, backing up to normal acquire on failure." />
+      <item value="set Exclusive Owner Thread" />
+      <item value="expect" />
+      <item value="acquires" />
+      <item value="try Acquire" />
+      <item value="Nonfair Sync" />
+      <item value="Priority Queue" />
+      <item value="Generic Filter Bean" />
+      <item value="Internal Authentication Service Exception" />
       <item value="attempt Authentication" />
-      <item value="Writing leftover bytes" />
-      <item value="user Consent Matcher" />
-      <item value="Securing" />
-      <item value="oidc" />
-      <item value="O Auth 2 Authorization Code Grant Filter" />
-      <item value="calculate Redirect Url" />
-      <item value="Relative" />
-      <item value="context Relative" />
-      <item value="Decides if a URL is absolute based on whether it contains a valid scheme name, as defined in RFC 1738." />
-      <item value="assign" />
-      <item value="Task Assignment Handler" />
-      <item value="introspection" />
-      <item value="require User Consent" />
-      <item value="Evaluator" />
-      <item value="Permission Evaluator" />
-      <item value="is Authorization Response" />
-      <item value="throwable Analyzer" />
-      <item value="Sign Up" />
-      <item value="prefer-ip-address" />
-      <item value="logistics" />
-      <item value="attachment" />
+      <item value="heapify" />
+      <item value="sift Up" />
+      <item value="peek" />
+      <item value="huge Capacity" />
+      <item value="grow" />
+      <item value="dequeue" />
+      <item value="Retrieves" />
+      <item value="transient" />
+      <item value="capacity Increment" />
+      <item value="parameter Name Discoverer" />
+      <item value="Authentication Entry Point" />
+      <item value="commence" />
+      <item value="authenticate All Artifacts" />
+      <item value="compute" />
+      <item value="if false, the table is in creation mode" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="dummy" />
+      <item value="ignored (distinguishes this constructor from other int, float constructor.)" />
+      <item value="Dummy value to associate with an Object in the backing Map" />
+      <item value="PRESENT" />
+      <item value="initial Capacity" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619521796933" />
+    <option name="lastTrimTime" value="1620271043204" />
   </component>
 </application>
