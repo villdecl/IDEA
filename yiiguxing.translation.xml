@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="interrupt" />
+      <item value="decrement Worker Count" />
+      <item value="offer" />
+      <item value="Are workers subject to culling?" />
+      <item value="Initial task to run. Possibly null." />
+      <item value="interrupt Workers" />
+      <item value="if true use corePoolSize as bound" />
+      <item value="Discard Policy" />
       <item value="largest Pool Size" />
       <item value="TIDYING" />
       <item value="NESTED" />
@@ -22,7 +30,6 @@
       <item value="mod Count" />
       <item value="Performs" />
       <item value="Performs lock." />
-      <item value="interrupt" />
       <item value="Abstract Queued Synchronizer" />
       <item value="Performs lock. Try immediate barge, backing up to normal acquire on failure." />
       <item value="set Exclusive Owner Thread" />
@@ -48,18 +55,11 @@
       <item value="commence" />
       <item value="authenticate All Artifacts" />
       <item value="compute" />
-      <item value="if false, the table is in creation mode" />
-      <item value="TREEIFY THRESHOLD" />
-      <item value="dummy" />
-      <item value="ignored (distinguishes this constructor from other int, float constructor.)" />
-      <item value="Dummy value to associate with an Object in the backing Map" />
-      <item value="PRESENT" />
-      <item value="initial Capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
