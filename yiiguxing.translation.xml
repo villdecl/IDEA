@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SET IF ABSENT" />
+      <item value="optimal" />
+      <item value="Promotion Status Exception" />
+      <item value="Time Constraint Exception" />
+      <item value="Voucher Type" />
+      <item value="get Auto Grow Collection Limit" />
+      <item value="Property Descriptor" />
+      <item value="skip Dispatch" />
+      <item value="Mutable Property Values" />
+      <item value="Bean Wrapper" />
       <item value="exclusive Owner Thread" />
       <item value="Abstract Queued Synchronizer" />
       <item value="advance Run State" />
@@ -45,21 +55,11 @@
       <item value="Internal Authentication Service Exception" />
       <item value="attempt Authentication" />
       <item value="heapify" />
-      <item value="sift Up" />
-      <item value="peek" />
-      <item value="huge Capacity" />
-      <item value="grow" />
-      <item value="dequeue" />
-      <item value="Retrieves" />
-      <item value="transient" />
-      <item value="capacity Increment" />
-      <item value="parameter Name Discoverer" />
-      <item value="Authentication Entry Point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
