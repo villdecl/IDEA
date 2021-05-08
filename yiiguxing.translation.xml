@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exclusive Owner Thread" />
+      <item value="Abstract Queued Synchronizer" />
+      <item value="advance Run State" />
+      <item value="completed Abruptly" />
       <item value="interrupt" />
       <item value="decrement Worker Count" />
       <item value="offer" />
@@ -30,7 +34,6 @@
       <item value="mod Count" />
       <item value="Performs" />
       <item value="Performs lock." />
-      <item value="Abstract Queued Synchronizer" />
       <item value="Performs lock. Try immediate barge, backing up to normal acquire on failure." />
       <item value="set Exclusive Owner Thread" />
       <item value="expect" />
@@ -52,14 +55,11 @@
       <item value="capacity Increment" />
       <item value="parameter Name Discoverer" />
       <item value="Authentication Entry Point" />
-      <item value="commence" />
-      <item value="authenticate All Artifacts" />
-      <item value="compute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
