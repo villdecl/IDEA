@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="try Acquire" />
+      <item value="EXCLUSIVE" />
       <item value="SET IF ABSENT" />
       <item value="optimal" />
       <item value="Promotion Status Exception" />
@@ -48,18 +50,16 @@
       <item value="set Exclusive Owner Thread" />
       <item value="expect" />
       <item value="acquires" />
-      <item value="try Acquire" />
       <item value="Nonfair Sync" />
       <item value="Priority Queue" />
       <item value="Generic Filter Bean" />
       <item value="Internal Authentication Service Exception" />
       <item value="attempt Authentication" />
-      <item value="heapify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
