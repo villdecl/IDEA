@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="generate Series Data" />
       <item value="login Processing Url" />
       <item value="continue Chain Before Successful Authentication" />
       <item value="try Acquire" />
@@ -54,12 +55,11 @@
       <item value="acquires" />
       <item value="Nonfair Sync" />
       <item value="Priority Queue" />
-      <item value="Generic Filter Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620271043204" />
+    <option name="lastTrimTime" value="1620878667118" />
   </component>
 </application>
