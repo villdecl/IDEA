@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The annotated element must not be null. &lt;p&gt; Annotated fields must not be null after construction has completed. &lt;p&gt; When this annotation is applied to a method it applies to the method return value." />
       <item value="generate Series Data" />
       <item value="login Processing Url" />
       <item value="continue Chain Before Successful Authentication" />
@@ -54,12 +54,11 @@
       <item value="expect" />
       <item value="acquires" />
       <item value="Nonfair Sync" />
-      <item value="Priority Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="373" />
+        <entry key="ENGLISH" value="374" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
