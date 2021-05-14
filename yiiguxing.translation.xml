@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="crypto" />
+      <item value="authenticate" />
+      <item value="decode" />
+      <item value="Nimbus" />
+      <item value="The Issued at claim identifies the time at which the JWT was issued" />
+      <item value="section" />
+      <item value="Opaque Token Configurer" />
+      <item value="Bearer" />
       <item value="Bearer Token Authentication Filter" />
       <item value="The annotated element must not be null. &lt;p&gt; Annotated fields must not be null after construction has completed. &lt;p&gt; When this annotation is applied to a method it applies to the method return value." />
       <item value="generate Series Data" />
@@ -46,25 +54,17 @@
       <item value="Termination" />
       <item value="await Termination" />
       <item value="is Terminated" />
-      <item value="period" />
-      <item value="mod Count" />
-      <item value="Performs" />
-      <item value="Performs lock." />
-      <item value="Performs lock. Try immediate barge, backing up to normal acquire on failure." />
-      <item value="set Exclusive Owner Thread" />
-      <item value="expect" />
-      <item value="acquires" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="TELUGU" value="1" />
         <entry key="SPANISH" value="1" />
