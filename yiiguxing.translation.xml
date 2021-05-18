@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="reducing" />
       <item value="sign On" />
       <item value="signon Type" />
       <item value="crypto" />
@@ -53,12 +54,11 @@
       <item value="scheduling" />
       <item value="schedule At Fixed Rate" />
       <item value="schedule With Fixed Delay" />
-      <item value="Termination" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620878667118" />
+    <option name="lastTrimTime" value="1621315519716" />
   </component>
 </application>
