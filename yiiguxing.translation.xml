@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="authorized Client Provider" />
+      <item value="Client Registration" />
+      <item value="Authorization" />
+      <item value="has Concurrent Result" />
       <item value="Compare" />
       <item value="claims" />
       <item value="reducing" />
@@ -50,15 +54,11 @@
       <item value="TIDYING" />
       <item value="NESTED" />
       <item value="Abort Policy" />
-      <item value="drain Queue" />
-      <item value="is Periodic" />
-      <item value="ensure Prestart" />
-      <item value="scheduling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
