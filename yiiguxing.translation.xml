@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="The server ID of the repository being mirrored, eg &amp;quot;central&amp;quot;. This MUST NOT match the mirror id." />
       <item value="id Token Claims" />
       <item value="Grant" />
       <item value="authorization Grant Authentication Converter" />
@@ -53,12 +54,11 @@
       <item value="interrupt" />
       <item value="decrement Worker Count" />
       <item value="offer" />
-      <item value="Are workers subject to culling?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="397" />
-        <entry key="ENGLISH" value="398" />
+        <entry key="CHINESE" value="398" />
+        <entry key="ENGLISH" value="399" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
