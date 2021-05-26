@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="Revocation" />
+      <item value="that processes JWK Set requests" />
       <item value="the issuer identifier" />
       <item value="BEARER" />
       <item value="authorized Client Provider" />
@@ -52,13 +54,11 @@
       <item value="interrupt Workers" />
       <item value="if true use corePoolSize as bound" />
       <item value="Discard Policy" />
-      <item value="largest Pool Size" />
-      <item value="TIDYING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
