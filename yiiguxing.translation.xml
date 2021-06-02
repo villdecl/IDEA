@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="trust Resolver" />
       <item value="expand Redirect Uri" />
       <item value="JWE Algorithm" />
       <item value="Signed JWT" />
@@ -53,12 +54,11 @@
       <item value="section" />
       <item value="Opaque Token Configurer" />
       <item value="Bearer" />
-      <item value="Bearer Token Authentication Filter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
