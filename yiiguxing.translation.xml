@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="JWE Algorithm" />
+      <item value="Signed JWT" />
+      <item value="Encrypted JWT" />
+      <item value="jws Algorithm Resolver" />
+      <item value="compute If Absent" />
+      <item value="Claims" />
+      <item value="get Claims" />
+      <item value="Granted Authority" />
+      <item value="should Retrieve User Info" />
+      <item value="claims" />
+      <item value="O Auth 2 Authorization Exchange" />
       <item value="Immutable" />
       <item value="excludes private keys" />
       <item value="display Consent" />
@@ -30,7 +41,6 @@
       <item value="Authorization" />
       <item value="has Concurrent Result" />
       <item value="Compare" />
-      <item value="claims" />
       <item value="reducing" />
       <item value="sign On" />
       <item value="signon Type" />
@@ -44,24 +54,15 @@
       <item value="Bearer" />
       <item value="Bearer Token Authentication Filter" />
       <item value="The annotated element must not be null. &lt;p&gt; Annotated fields must not be null after construction has completed. &lt;p&gt; When this annotation is applied to a method it applies to the method return value." />
-      <item value="generate Series Data" />
-      <item value="login Processing Url" />
-      <item value="continue Chain Before Successful Authentication" />
-      <item value="try Acquire" />
-      <item value="EXCLUSIVE" />
-      <item value="SET IF ABSENT" />
-      <item value="optimal" />
-      <item value="Promotion Status Exception" />
-      <item value="Time Constraint Exception" />
-      <item value="Voucher Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="422" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
+        <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="3" />
