@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="expand Redirect Uri" />
       <item value="JWE Algorithm" />
       <item value="Signed JWT" />
       <item value="Encrypted JWT" />
@@ -53,7 +54,6 @@
       <item value="Opaque Token Configurer" />
       <item value="Bearer" />
       <item value="Bearer Token Authentication Filter" />
-      <item value="The annotated element must not be null. &lt;p&gt; Annotated fields must not be null after construction has completed. &lt;p&gt; When this annotation is applied to a method it applies to the method return value." />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="TELUGU" value="1" />
