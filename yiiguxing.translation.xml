@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="retain All" />
+      <item value="Compare" />
       <item value="trust Resolver" />
       <item value="expand Redirect Uri" />
       <item value="JWE Algorithm" />
@@ -42,7 +44,6 @@
       <item value="Client Registration" />
       <item value="Authorization" />
       <item value="has Concurrent Result" />
-      <item value="Compare" />
       <item value="reducing" />
       <item value="sign On" />
       <item value="signon Type" />
@@ -53,12 +54,11 @@
       <item value="The Issued at claim identifies the time at which the JWT was issued" />
       <item value="section" />
       <item value="Opaque Token Configurer" />
-      <item value="Bearer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="425" />
+        <entry key="ENGLISH" value="426" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
