@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="calculate Redirect Url" />
+      <item value="implies" />
       <item value="retain All" />
       <item value="Compare" />
       <item value="trust Resolver" />
@@ -52,13 +54,11 @@
       <item value="decode" />
       <item value="Nimbus" />
       <item value="The Issued at claim identifies the time at which the JWT was issued" />
-      <item value="section" />
-      <item value="Opaque Token Configurer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
