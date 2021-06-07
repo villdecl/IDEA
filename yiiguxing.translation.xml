@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="should Retrieve User Info" />
+      <item value="authorization Code Authentication.get Authorization Exchange()" />
+      <item value="Authorize" />
       <item value="Granted Authority" />
       <item value="block" />
       <item value="authorized" />
@@ -31,7 +34,6 @@
       <item value="compute If Absent" />
       <item value="Claims" />
       <item value="get Claims" />
-      <item value="should Retrieve User Info" />
       <item value="claims" />
       <item value="Immutable" />
       <item value="excludes private keys" />
@@ -52,13 +54,11 @@
       <item value="that processes JWK Set requests" />
       <item value="the issuer identifier" />
       <item value="BEARER" />
-      <item value="authorized Client Provider" />
-      <item value="Client Registration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
