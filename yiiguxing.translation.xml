@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2506" />
     <option name="newTranslationDialogY" value="435" />
     <histories>
+      <item value="Sign In" />
+      <item value="credentials" />
       <item value="should Retrieve User Info" />
       <item value="authorization Code Authentication.get Authorization Exchange()" />
       <item value="Authorize" />
@@ -52,13 +54,11 @@
       <item value="authorization Grant Authentication Converter" />
       <item value="calculate" />
       <item value="that processes JWK Set requests" />
-      <item value="the issuer identifier" />
-      <item value="BEARER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
