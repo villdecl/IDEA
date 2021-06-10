@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Always set secure if the request is secure" />
+      <item value="Session Tracking Mode" />
+      <item value="rotate Session Id" />
+      <item value="Session Fixation Protection Strategy" />
       <item value="Member Details" />
       <item value="force Eager Session Creation" />
       <item value="Nullable" />
@@ -48,15 +52,11 @@
       <item value="get Claims" />
       <item value="claims" />
       <item value="Immutable" />
-      <item value="excludes private keys" />
-      <item value="display Consent" />
-      <item value="require User Consent" />
-      <item value="is Principal Authenticated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
