@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Spring/Convert to p-namespace" />
+    <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
   </component>
 </application>
