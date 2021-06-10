@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="force Eager Session Creation" />
       <item value="Nullable" />
       <item value="fragment" />
       <item value="Sign In Event" />
@@ -51,12 +52,11 @@
       <item value="require User Consent" />
       <item value="is Principal Authenticated" />
       <item value="Valid" />
-      <item value="is Absolute Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
