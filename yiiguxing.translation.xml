@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Digest Authentication Entry Point" />
+      <item value="commence" />
       <item value="erase Credentials" />
       <item value="Eagerly save the security context to make it available for any possible re-entrant requests which may occur before the current request completes. SEC-1396." />
       <item value="create Default Session Fixation Protection Strategy" />
@@ -50,16 +52,14 @@
       <item value="Signed JWT" />
       <item value="Encrypted JWT" />
       <item value="jws Algorithm Resolver" />
-      <item value="compute If Absent" />
-      <item value="Claims" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="2" />
