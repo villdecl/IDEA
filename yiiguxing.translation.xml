@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="replicated Servers Config" />
+      <item value="Sentinel" />
       <item value="Digest Authentication Entry Point" />
       <item value="commence" />
       <item value="erase Credentials" />
@@ -50,13 +52,11 @@
       <item value="expand Redirect Uri" />
       <item value="JWE Algorithm" />
       <item value="Signed JWT" />
-      <item value="Encrypted JWT" />
-      <item value="jws Algorithm Resolver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
