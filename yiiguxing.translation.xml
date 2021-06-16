@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="expiration Policy" />
+      <item value="ON SET ATTRIBUTE" />
+      <item value="DEFAULT CLEANUP CRON" />
       <item value="IMMEDIATE" />
       <item value="flush Immediate If Necessary" />
       <item value="Redis Indexed Session Repository" />
@@ -49,14 +52,11 @@
       <item value="Nimbus" />
       <item value="authorities" />
       <item value="Credentials Container" />
-      <item value="increment" />
-      <item value="actuate" />
-      <item value="Discovery Locator Properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="483" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
