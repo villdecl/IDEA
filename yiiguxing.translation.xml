@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Redis Indexed Session Repository" />
+      <item value="invalidate" />
+      <item value="requested Session Id Valid" />
       <item value="commit Session" />
       <item value="detect All Handler Mappings" />
       <item value="Dragonfruit" />
@@ -49,14 +52,11 @@
       <item value="Discovery Locator Properties" />
       <item value="calculate Redirect Url" />
       <item value="implies" />
-      <item value="retain All" />
-      <item value="Compare" />
-      <item value="trust Resolver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="477" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
