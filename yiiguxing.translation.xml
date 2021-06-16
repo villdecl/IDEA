@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="fragment" />
       <item value="Session fixation isn't a problem if there's no session" />
       <item value="apply Session Fixation" />
       <item value="invalidate" />
@@ -31,7 +32,6 @@
       <item value="Member Details" />
       <item value="force Eager Session Creation" />
       <item value="Nullable" />
-      <item value="fragment" />
       <item value="Sign In Event" />
       <item value="Termination Fail Exception" />
       <item value="Exclusive Topic" />
@@ -55,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
