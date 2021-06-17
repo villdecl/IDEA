@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="pom" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern="confirm" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="adsd" type="PLAIN_TEXT" />
       <mapping pattern="confirm-fast.json" type="PLAIN_TEXT" />
       <mapping pattern=".npmignore" type="PLAIN_TEXT" />
