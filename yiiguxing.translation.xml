@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="get Expirations Key" />
       <item value="Compatible" />
       <item value="Concurrent Session Control Authentication Strategy" />
       <item value="Determine least recently used sessions, and mark them for invalidation" />
@@ -51,12 +52,11 @@
       <item value="credentials" />
       <item value="should Retrieve User Info" />
       <item value="authorization Code Authentication.get Authorization Exchange()" />
-      <item value="Authorize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
