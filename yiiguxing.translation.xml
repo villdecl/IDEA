@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="attachments" />
+      <item value="Experimental" />
       <item value="get Expirations Key" />
       <item value="Compatible" />
       <item value="Concurrent Session Control Authentication Strategy" />
@@ -50,13 +52,11 @@
       <item value="compact" />
       <item value="Sign In" />
       <item value="credentials" />
-      <item value="should Retrieve User Info" />
-      <item value="authorization Code Authentication.get Authorization Exchange()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="499" />
+        <entry key="ENGLISH" value="500" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
@@ -74,6 +74,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623754011109" />
+    <option name="lastTrimTime" value="1624190162720" />
   </component>
 </application>
