@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Experiment api for supporting Object transmission" />
       <item value="attachments" />
       <item value="Experimental" />
       <item value="get Expirations Key" />
@@ -51,12 +52,11 @@
       <item value="but was actually of type" />
       <item value="compact" />
       <item value="Sign In" />
-      <item value="credentials" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
