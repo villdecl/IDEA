@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Evaluation Context" />
+      <item value="Type Comparator" />
+      <item value="trust Resolver" />
+      <item value="expected Result Type" />
       <item value="always Reauthenticate" />
       <item value="Unanimous Based" />
       <item value="Consensus Based" />
@@ -48,15 +52,11 @@
       <item value="Always set secure if the request is secure" />
       <item value="Session Tracking Mode" />
       <item value="rotate Session Id" />
-      <item value="Session Fixation Protection Strategy" />
-      <item value="Member Details" />
-      <item value="Nullable" />
-      <item value="Sign In Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
