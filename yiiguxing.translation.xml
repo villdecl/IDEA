@@ -2,6 +2,18 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Holds the compiled form of the expression (if it has been compiled)" />
+      <item value="Type Locator" />
+      <item value="Standard Evaluation Context" />
+      <item value="Literal" />
+      <item value="Operator" />
+      <item value="peek Token" />
+      <item value="Deque" />
+      <item value="Relational" />
+      <item value="tokenizer" />
+      <item value="push Pair Token" />
+      <item value="LITERAL REAL" />
+      <item value="Internal Spel Expression Parser" />
       <item value="access Denied Handler" />
       <item value="Spel Node Impl" />
       <item value="Compiled Expression" />
@@ -40,32 +52,21 @@
       <item value="ON SET ATTRIBUTE" />
       <item value="DEFAULT CLEANUP CRON" />
       <item value="IMMEDIATE" />
-      <item value="flush Immediate If Necessary" />
-      <item value="Redis Indexed Session Repository" />
-      <item value="requested Session Id Valid" />
-      <item value="commit Session" />
-      <item value="detect All Handler Mappings" />
-      <item value="Dragonfruit" />
-      <item value="replicated Servers Config" />
-      <item value="Sentinel" />
-      <item value="Digest Authentication Entry Point" />
-      <item value="commence" />
-      <item value="erase Credentials" />
-      <item value="Eagerly save the security context to make it available for any possible re-entrant requests which may occur before the current request completes. SEC-1396." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="529" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="SWEDISH" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="1" />
