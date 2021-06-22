@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="access Denied Handler" />
+      <item value="Spel Node Impl" />
+      <item value="Compiled Expression" />
+      <item value="desired Result Type" />
+      <item value="Experimental" />
       <item value="Evaluation Context" />
       <item value="Type Comparator" />
       <item value="trust Resolver" />
@@ -16,7 +21,6 @@
       <item value="Affirmative Based" />
       <item value="Experiment api for supporting Object transmission" />
       <item value="attachments" />
-      <item value="Experimental" />
       <item value="get Expirations Key" />
       <item value="Compatible" />
       <item value="Concurrent Session Control Authentication Strategy" />
@@ -48,19 +52,16 @@
       <item value="commence" />
       <item value="erase Credentials" />
       <item value="Eagerly save the security context to make it available for any possible re-entrant requests which may occur before the current request completes. SEC-1396." />
-      <item value="create Default Session Fixation Protection Strategy" />
-      <item value="Always set secure if the request is secure" />
-      <item value="Session Tracking Mode" />
-      <item value="rotate Session Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
+        <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="4" />
