@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="allow If All Abstain Decisions" />
+      <item value="Affirmative Based" />
       <item value="Holds the compiled form of the expression (if it has been compiled)" />
       <item value="Type Locator" />
       <item value="Standard Evaluation Context" />
@@ -30,7 +32,6 @@
       <item value="ACCESS GRANTED" />
       <item value="GRANTED" />
       <item value="Aop Infrastructure Bean" />
-      <item value="Affirmative Based" />
       <item value="Experiment api for supporting Object transmission" />
       <item value="attachments" />
       <item value="get Expirations Key" />
@@ -51,12 +52,11 @@
       <item value="expiration Policy" />
       <item value="ON SET ATTRIBUTE" />
       <item value="DEFAULT CLEANUP CRON" />
-      <item value="IMMEDIATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="530" />
+        <entry key="ENGLISH" value="531" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
