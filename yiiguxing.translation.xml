@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="INTERVAL" />
       <item value="allow If All Abstain Decisions" />
       <item value="Affirmative Based" />
       <item value="Holds the compiled form of the expression (if it has been compiled)" />
@@ -51,12 +52,11 @@
       <item value="is Invalidate Client Session" />
       <item value="expiration Policy" />
       <item value="ON SET ATTRIBUTE" />
-      <item value="DEFAULT CLEANUP CRON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="531" />
+        <entry key="ENGLISH" value="532" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
