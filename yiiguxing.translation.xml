@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Expiration Entry" />
       <item value="Interrupted Exception" />
       <item value="Spring Session Backed Session Registry" />
       <item value="concurrent" />
@@ -51,12 +52,11 @@
       <item value="Session fixation isn't a problem if there's no session" />
       <item value="apply Session Fixation" />
       <item value="invalidate" />
-      <item value="create Migrated Attribute Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="534" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="4" />
