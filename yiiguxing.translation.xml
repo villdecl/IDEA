@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Write Non String Key As String" />
       <item value="Disposable" />
       <item value="Delegate Service Scheduler" />
       <item value="Bounded Elastic Scheduler" />
@@ -51,12 +52,11 @@
       <item value="always Reauthenticate" />
       <item value="Unanimous Based" />
       <item value="Consensus Based" />
-      <item value="ACCESS ABSTAIN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="556" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="559" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
