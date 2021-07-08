@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="ORDER ON" />
+      <item value="ADDITION" />
       <item value="delta" />
       <item value="on Assembly" />
       <item value="Order" />
@@ -50,13 +52,11 @@
       <item value="Compiled Expression" />
       <item value="desired Result Type" />
       <item value="Experimental" />
-      <item value="Evaluation Context" />
-      <item value="Type Comparator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="564" />
+        <entry key="CHINESE" value="564" />
+        <entry key="ENGLISH" value="566" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
