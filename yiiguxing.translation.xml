@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="the decrease amount can be a positive integer" />
       <item value="Constraint Violation" />
       <item value="promotion Status are not available" />
       <item value="defer With Context" />
@@ -51,12 +52,11 @@
       <item value="push Pair Token" />
       <item value="LITERAL REAL" />
       <item value="Internal Spel Expression Parser" />
-      <item value="access Denied Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="571" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
