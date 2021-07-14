@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="optimal" />
       <item value="UNLIMITED" />
       <item value="set Precision" />
       <item value="ROUND UNNECESSARY" />
@@ -51,12 +52,11 @@
       <item value="Standard Evaluation Context" />
       <item value="Literal" />
       <item value="peek Token" />
-      <item value="Deque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="576" />
+        <entry key="ENGLISH" value="578" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
