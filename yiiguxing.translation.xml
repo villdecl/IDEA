@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Constraint Type" />
+      <item value="Constraint Violation" />
+      <item value="Constraint" />
       <item value="PRODUCT UNPURCHASABLE" />
       <item value="optimal" />
       <item value="UNLIMITED" />
@@ -11,7 +14,6 @@
       <item value="consumption" />
       <item value="Threshold Exception" />
       <item value="the decrease amount can be a positive integer" />
-      <item value="Constraint Violation" />
       <item value="promotion Status are not available" />
       <item value="defer With Context" />
       <item value="Supplier" />
@@ -50,13 +52,11 @@
       <item value="Affirmative Based" />
       <item value="Holds the compiled form of the expression (if it has been compiled)" />
       <item value="Type Locator" />
-      <item value="Standard Evaluation Context" />
-      <item value="Literal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="CHINESE" value="582" />
+        <entry key="ENGLISH" value="584" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
