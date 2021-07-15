@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="present" />
+      <item value="present Price" />
       <item value="the postage not 0" />
       <item value="decrease" />
       <item value="is Calculation" />
@@ -50,13 +52,11 @@
       <item value="expand Deep" />
       <item value="Expiration Entry" />
       <item value="Interrupted Exception" />
-      <item value="Spring Session Backed Session Registry" />
-      <item value="concurrent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="587" />
-        <entry key="ENGLISH" value="589" />
+        <entry key="CHINESE" value="589" />
+        <entry key="ENGLISH" value="591" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
