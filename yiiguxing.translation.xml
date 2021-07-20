@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="offer" />
+      <item value="never Block" />
+      <item value="put Uninterruptibly" />
+      <item value="is Discardable" />
+      <item value="is Queue Below Discarding Threshold" />
       <item value="RPC Hook" />
       <item value="Abort Policy" />
       <item value="Termination Fail Exception" />
@@ -47,16 +52,11 @@
       <item value="Order" />
       <item value="Asset" />
       <item value="Write Non String Key As String" />
-      <item value="Disposable" />
-      <item value="Delegate Service Scheduler" />
-      <item value="Bounded Elastic Scheduler" />
-      <item value="recurse" />
-      <item value="Synchronous Subscription" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="605" />
-        <entry key="ENGLISH" value="607" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="613" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
