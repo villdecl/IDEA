@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="RPC Hook" />
+      <item value="Abort Policy" />
       <item value="Termination Fail Exception" />
       <item value="Exclusive" />
       <item value="Exclusive Topic" />
@@ -50,13 +52,11 @@
       <item value="Bounded Elastic Scheduler" />
       <item value="recurse" />
       <item value="Synchronous Subscription" />
-      <item value="Fuseable" />
-      <item value="Optimizable Operator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="603" />
-        <entry key="ENGLISH" value="605" />
+        <entry key="CHINESE" value="605" />
+        <entry key="ENGLISH" value="607" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
