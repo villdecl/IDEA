@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="Logistics Spu" />
       <item value="postage" />
       <item value="offer" />
       <item value="never Block" />
@@ -51,12 +52,11 @@
       <item value="delta" />
       <item value="on Assembly" />
       <item value="Order" />
-      <item value="Asset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="614" />
+        <entry key="CHINESE" value="613" />
+        <entry key="ENGLISH" value="615" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
