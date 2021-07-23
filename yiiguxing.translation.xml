@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="scale" />
+      <item value="rounding Mode" />
       <item value="multiply" />
       <item value="set Precision" />
       <item value="Index Coordinates" />
@@ -50,13 +52,11 @@
       <item value="consumption" />
       <item value="Threshold Exception" />
       <item value="the decrease amount can be a positive integer" />
-      <item value="promotion Status are not available" />
-      <item value="defer With Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="624" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
