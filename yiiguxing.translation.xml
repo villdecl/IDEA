@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="ensure Capacity Internal" />
       <item value="carousel" />
       <item value="Addition" />
       <item value="scale" />
@@ -51,12 +52,11 @@
       <item value="UNLIMITED" />
       <item value="ROUND UNNECESSARY" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
-      <item value="consumption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="624" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="CHINESE" value="625" />
+        <entry key="ENGLISH" value="627" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
