@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="upgrade" />
+      <item value="Lookup" />
+      <item value="The constant wxApiData." />
+      <item value="unified" />
       <item value="Default Hostname Verifier" />
       <item value="ensure Capacity Internal" />
       <item value="carousel" />
@@ -48,15 +52,11 @@
       <item value="Constraint Type" />
       <item value="Constraint Violation" />
       <item value="Constraint" />
-      <item value="PRODUCT UNPURCHASABLE" />
-      <item value="optimal" />
-      <item value="UNLIMITED" />
-      <item value="ROUND UNNECESSARY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="628" />
+        <entry key="CHINESE" value="630" />
+        <entry key="ENGLISH" value="632" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
