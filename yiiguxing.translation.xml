@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="usable Promotion" />
+      <item value="applicative" />
       <item value="upgrade" />
       <item value="Lookup" />
       <item value="The constant wxApiData." />
@@ -50,13 +52,11 @@
       <item value="DEFAULT DISCOUNT DIVIDE" />
       <item value="reduce" />
       <item value="Constraint Type" />
-      <item value="Constraint Violation" />
-      <item value="Constraint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="632" />
+        <entry key="ENGLISH" value="633" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
@@ -71,6 +71,7 @@
         <entry key="TELUGU" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
