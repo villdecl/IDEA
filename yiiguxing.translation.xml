@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="add Allowed Origin" />
       <item value="OCTOBER" />
       <item value="DECEMBER" />
       <item value="usable Promotion" />
@@ -51,12 +52,11 @@
       <item value="the postage not 0" />
       <item value="decrease" />
       <item value="is Calculation" />
-      <item value="DEFAULT DISCOUNT DIVIDE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="637" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627288874615" />
+    <option name="lastTrimTime" value="1627872805381" />
   </component>
 </application>
