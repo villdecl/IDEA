@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="intersect" />
+      <item value="expiration" />
+      <item value="max Inactive Interval In Seconds" />
+      <item value="is Cluster Aware" />
+      <item value="Redis Accessor" />
       <item value="add Allowed Origin" />
       <item value="OCTOBER" />
       <item value="DECEMBER" />
@@ -47,16 +52,11 @@
       <item value="SECTION" />
       <item value="flat" />
       <item value="flat Map" />
-      <item value="present" />
-      <item value="present Price" />
-      <item value="the postage not 0" />
-      <item value="decrease" />
-      <item value="is Calculation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="641" />
+        <entry key="ENGLISH" value="642" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
