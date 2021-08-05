@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="valuation Rule" />
       <item value="positive" />
       <item value="has Additional Parameter" />
       <item value="apply Transaction Timeout" />
@@ -51,12 +52,11 @@
       <item value="Exclusive" />
       <item value="Abstract Spu Constraint" />
       <item value="protocol Processor" />
-      <item value="mutable Processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="652" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
