@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="original" />
+      <item value="origin" />
+      <item value="Constraint Violation Exception" />
       <item value="obtain" />
       <item value="valuation Rule" />
       <item value="positive" />
@@ -49,14 +52,11 @@
       <item value="is Queue Below Discarding Threshold" />
       <item value="RPC Hook" />
       <item value="Abort Policy" />
-      <item value="Termination Fail Exception" />
-      <item value="Exclusive" />
-      <item value="Abstract Spu Constraint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="652" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="655" />
+        <entry key="ENGLISH" value="656" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
