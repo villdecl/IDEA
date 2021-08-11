@@ -2,13 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="origin" />
+      <item value="origin Price" />
       <item value="Items" />
       <item value="invalid Items" />
       <item value="Forbid to access" />
       <item value="Dynamic Directory" />
       <item value="forbidden" />
       <item value="original" />
-      <item value="origin" />
       <item value="Constraint Violation Exception" />
       <item value="obtain" />
       <item value="valuation Rule" />
@@ -51,12 +52,11 @@
       <item value="Logistics Spu" />
       <item value="postage" />
       <item value="offer" />
-      <item value="never Block" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="660" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="662" />
+        <entry key="ENGLISH" value="663" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="5" />
