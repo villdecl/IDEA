@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="-1428" />
+    <option name="newTranslationDialogY" value="549" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="goods" />
+      <item value="product" />
       <item value="invalid" />
       <item value="ROUND FLOOR" />
       <item value="delim" />
@@ -50,13 +55,11 @@
       <item value="rounding Mode" />
       <item value="multiply" />
       <item value="set Precision" />
-      <item value="Index Coordinates" />
-      <item value="the logistics Price has been set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="670" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
