@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="addition" />
       <item value="goods" />
       <item value="product" />
       <item value="invalid" />
@@ -54,12 +55,11 @@
       <item value="scale" />
       <item value="rounding Mode" />
       <item value="multiply" />
-      <item value="set Precision" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="669" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="CHINESE" value="670" />
+        <entry key="ENGLISH" value="671" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
