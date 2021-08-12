@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="592" />
     <histories>
+      <item value="delim" />
+      <item value="collection To Delimited String" />
+      <item value="preferential Value" />
+      <item value="get Optimal Level" />
       <item value="origin" />
       <item value="origin Price" />
       <item value="Items" />
@@ -48,17 +52,14 @@
       <item value="the logistics Price has been set" />
       <item value="allot Postage" />
       <item value="logistics Price" />
-      <item value="the postage must be gt 0" />
-      <item value="Logistics Spu" />
-      <item value="postage" />
-      <item value="offer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="663" />
+        <entry key="CHINESE" value="666" />
+        <entry key="ENGLISH" value="666" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="1" />
