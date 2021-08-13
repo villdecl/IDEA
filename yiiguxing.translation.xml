@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="expected Mod Count" />
       <item value="PRODUCT SELL OUT" />
       <item value="distinct" />
       <item value="get Fair Lock" />
@@ -54,12 +55,11 @@
       <item value="The constant wxApiData." />
       <item value="unified" />
       <item value="Default Hostname Verifier" />
-      <item value="ensure Capacity Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
-        <entry key="ENGLISH" value="676" />
+        <entry key="CHINESE" value="676" />
+        <entry key="ENGLISH" value="677" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
