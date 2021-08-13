@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="distinct" />
       <item value="get Fair Lock" />
       <item value="use Replicated Servers" />
       <item value="CATT BEYOND NUM" />
@@ -54,12 +55,11 @@
       <item value="Default Hostname Verifier" />
       <item value="ensure Capacity Internal" />
       <item value="carousel" />
-      <item value="Addition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="675" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
