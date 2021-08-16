@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Reuse Executor" />
+      <item value="eldest Key" />
+      <item value="cycle Key List" />
+      <item value="least recently used" />
       <item value="Sign In Event" />
       <item value="Passport" />
       <item value="referrer" />
@@ -51,15 +55,11 @@
       <item value="Time Zone" />
       <item value="to Instant" />
       <item value="intersect" />
-      <item value="expiration" />
-      <item value="max Inactive Interval In Seconds" />
-      <item value="is Cluster Aware" />
-      <item value="Redis Accessor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="686" />
+        <entry key="CHINESE" value="689" />
+        <entry key="ENGLISH" value="690" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
