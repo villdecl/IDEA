@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sign In Event" />
+      <item value="Passport" />
       <item value="referrer" />
       <item value="implies" />
       <item value="Authentication" />
@@ -53,13 +55,11 @@
       <item value="max Inactive Interval In Seconds" />
       <item value="is Cluster Aware" />
       <item value="Redis Accessor" />
-      <item value="add Allowed Origin" />
-      <item value="OCTOBER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="685" />
+        <entry key="ENGLISH" value="686" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
