@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="referrer" />
+      <item value="implies" />
+      <item value="Authentication" />
       <item value="on Response Committed" />
       <item value="set Context Relative" />
       <item value="commence" />
@@ -52,14 +55,11 @@
       <item value="Redis Accessor" />
       <item value="add Allowed Origin" />
       <item value="OCTOBER" />
-      <item value="DECEMBER" />
-      <item value="usable Promotion" />
-      <item value="applicative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
-        <entry key="ENGLISH" value="681" />
+        <entry key="CHINESE" value="683" />
+        <entry key="ENGLISH" value="684" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
