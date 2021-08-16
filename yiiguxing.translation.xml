@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Context Relative" />
+      <item value="commence" />
       <item value="PRODUCT INVALID" />
       <item value="rawtypes" />
       <item value="expected Mod Count" />
@@ -53,17 +55,15 @@
       <item value="usable Promotion" />
       <item value="applicative" />
       <item value="upgrade" />
-      <item value="Lookup" />
-      <item value="The constant wxApiData." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="678" />
-        <entry key="ENGLISH" value="679" />
+        <entry key="CHINESE" value="679" />
+        <entry key="ENGLISH" value="680" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="6" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="3" />
