@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Binder" />
+      <item value="sign On Type" />
       <item value="Reuse Executor" />
       <item value="eldest Key" />
       <item value="cycle Key List" />
@@ -53,13 +55,11 @@
       <item value="Perpetual Cache" />
       <item value="Exclusive Topic" />
       <item value="Time Zone" />
-      <item value="to Instant" />
-      <item value="intersect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="689" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
