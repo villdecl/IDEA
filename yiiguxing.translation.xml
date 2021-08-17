@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="zero can have any scale" />
+      <item value="new Scale" />
+      <item value="ROUND HALF UP" />
       <item value="Sign In" />
       <item value="Place An Order Handler" />
       <item value="Binder" />
@@ -52,14 +55,11 @@
       <item value="positive" />
       <item value="has Additional Parameter" />
       <item value="apply Transaction Timeout" />
-      <item value="threshold Value" />
-      <item value="defer Load" />
-      <item value="Perpetual Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="693" />
-        <entry key="ENGLISH" value="694" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="697" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
