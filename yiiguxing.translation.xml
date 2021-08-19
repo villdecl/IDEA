@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="NOTYPE" />
       <item value="ROUND UP" />
       <item value="zero can have any scale" />
       <item value="new Scale" />
@@ -54,12 +55,11 @@
       <item value="obtain" />
       <item value="valuation Rule" />
       <item value="positive" />
-      <item value="has Additional Parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="697" />
-        <entry key="ENGLISH" value="698" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="699" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
