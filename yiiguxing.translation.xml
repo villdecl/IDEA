@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Termination Fail Exception" />
       <item value="NOTYPE" />
       <item value="ROUND UP" />
       <item value="zero can have any scale" />
@@ -54,12 +55,11 @@
       <item value="Constraint Violation Exception" />
       <item value="obtain" />
       <item value="valuation Rule" />
-      <item value="positive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="700" />
+        <entry key="ENGLISH" value="701" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
