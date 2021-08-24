@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="member cart" />
       <item value="calculated" />
       <item value="reward valid time data error" />
       <item value="Termination Fail Exception" />
@@ -54,12 +55,11 @@
       <item value="Dynamic Directory" />
       <item value="forbidden" />
       <item value="original" />
-      <item value="Constraint Violation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="702" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="703" />
+        <entry key="ENGLISH" value="704" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
