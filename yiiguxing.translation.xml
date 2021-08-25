@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="analyzer" />
       <item value="reload Present Price" />
       <item value="DEFAULT DISCOUNT DIVISOR" />
       <item value="member cart" />
@@ -54,12 +55,11 @@
       <item value="Items" />
       <item value="invalid Items" />
       <item value="Forbid to access" />
-      <item value="Dynamic Directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="705" />
-        <entry key="ENGLISH" value="706" />
+        <entry key="CHINESE" value="706" />
+        <entry key="ENGLISH" value="707" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
