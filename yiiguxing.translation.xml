@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bulk Update" />
+      <item value="bulk" />
+      <item value="Deprecated" />
+      <item value="Attempts" />
+      <item value="Circuit Breaker" />
       <item value="analyzer" />
       <item value="reload Present Price" />
       <item value="DEFAULT DISCOUNT DIVISOR" />
@@ -50,16 +55,11 @@
       <item value="collection To Delimited String" />
       <item value="preferential Value" />
       <item value="get Optimal Level" />
-      <item value="origin" />
-      <item value="origin Price" />
-      <item value="Items" />
-      <item value="invalid Items" />
-      <item value="Forbid to access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="706" />
-        <entry key="ENGLISH" value="707" />
+        <entry key="CHINESE" value="711" />
+        <entry key="ENGLISH" value="712" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
