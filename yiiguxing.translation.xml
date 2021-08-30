@@ -5,7 +5,10 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fetch Source Includes" />
+      <item value="Index Coordinates" />
       <item value="bulk Update" />
+      <item value="ordinal date" />
       <item value="bulk" />
       <item value="Deprecated" />
       <item value="Attempts" />
@@ -52,14 +55,11 @@
       <item value="invalid" />
       <item value="ROUND FLOOR" />
       <item value="delim" />
-      <item value="collection To Delimited String" />
-      <item value="preferential Value" />
-      <item value="get Optimal Level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="711" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="CHINESE" value="715" />
+        <entry key="ENGLISH" value="716" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -82,6 +82,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629713297770" />
+    <option name="lastTrimTime" value="1630329508302" />
   </component>
 </application>
