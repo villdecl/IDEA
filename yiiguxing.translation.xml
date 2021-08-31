@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sale" />
+      <item value="desc" />
       <item value="applicable" />
       <item value="compute" />
       <item value="IMMEDIATE" />
@@ -53,13 +55,11 @@
       <item value="use Replicated Servers" />
       <item value="CATT BEYOND NUM" />
       <item value="addition" />
-      <item value="goods" />
-      <item value="product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="718" />
-        <entry key="ENGLISH" value="719" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="721" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
