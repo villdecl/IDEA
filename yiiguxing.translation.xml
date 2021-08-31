@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="compute" />
+      <item value="IMMEDIATE" />
       <item value="fetch Source Includes" />
       <item value="Index Coordinates" />
       <item value="bulk Update" />
@@ -53,13 +55,11 @@
       <item value="goods" />
       <item value="product" />
       <item value="invalid" />
-      <item value="ROUND FLOOR" />
-      <item value="delim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="715" />
-        <entry key="ENGLISH" value="716" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="718" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
