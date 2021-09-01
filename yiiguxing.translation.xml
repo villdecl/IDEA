@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="include Upper" />
       <item value="constructed" />
       <item value="PRODUCT SALES" />
       <item value="sale" />
@@ -54,12 +55,11 @@
       <item value="PRODUCT SELL OUT" />
       <item value="distinct" />
       <item value="get Fair Lock" />
-      <item value="use Replicated Servers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
-        <entry key="ENGLISH" value="723" />
+        <entry key="CHINESE" value="723" />
+        <entry key="ENGLISH" value="724" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
