@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="NESTED" />
+      <item value="MAX SEGMENTS" />
+      <item value="Constants" />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="validate Incomplete Statements" />
       <item value="PRODUCT ALL invalided" />
       <item value="get Offset" />
       <item value="include Upper" />
@@ -50,16 +55,11 @@
       <item value="Authentication" />
       <item value="on Response Committed" />
       <item value="set Context Relative" />
-      <item value="commence" />
-      <item value="PRODUCT INVALID" />
-      <item value="rawtypes" />
-      <item value="expected Mod Count" />
-      <item value="PRODUCT SELL OUT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="725" />
-        <entry key="ENGLISH" value="726" />
+        <entry key="CHINESE" value="730" />
+        <entry key="ENGLISH" value="731" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
