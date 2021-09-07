@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PRODUCT ALL invalided" />
       <item value="get Offset" />
       <item value="include Upper" />
       <item value="constructed" />
@@ -54,12 +55,11 @@
       <item value="rawtypes" />
       <item value="expected Mod Count" />
       <item value="PRODUCT SELL OUT" />
-      <item value="distinct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE" value="725" />
+        <entry key="ENGLISH" value="726" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -82,6 +82,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630329508302" />
+    <option name="lastTrimTime" value="1630999736369" />
   </component>
 </application>
