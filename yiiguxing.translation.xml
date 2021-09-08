@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="eviction" />
+      <item value="Scheduled Cache" />
+      <item value="Synchronized Cache" />
+      <item value="set Standard Decorators" />
+      <item value="Soft Reference" />
+      <item value="Soft Cache" />
+      <item value="Weak Reference" />
+      <item value="Weak Cache" />
+      <item value="acquire Lock" />
+      <item value="Perpetual Cache" />
+      <item value="evict" />
+      <item value="after Node Insertion" />
+      <item value="Strict Map" />
+      <item value="Assistant" />
+      <item value="Mapper Builder Assistant" />
+      <item value="compute If Absent" />
+      <item value="decorators" />
+      <item value="remove Eldest Entry" />
       <item value="NESTED" />
       <item value="MAX SEGMENTS" />
       <item value="Constants" />
@@ -37,29 +55,11 @@
       <item value="Termination Fail Exception" />
       <item value="NOTYPE" />
       <item value="ROUND UP" />
-      <item value="zero can have any scale" />
-      <item value="new Scale" />
-      <item value="ROUND HALF UP" />
-      <item value="Sign In" />
-      <item value="Place An Order Handler" />
-      <item value="Binder" />
-      <item value="sign On Type" />
-      <item value="Reuse Executor" />
-      <item value="eldest Key" />
-      <item value="cycle Key List" />
-      <item value="least recently used" />
-      <item value="Sign In Event" />
-      <item value="Passport" />
-      <item value="referrer" />
-      <item value="implies" />
-      <item value="Authentication" />
-      <item value="on Response Committed" />
-      <item value="set Context Relative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="730" />
-        <entry key="ENGLISH" value="731" />
+        <entry key="CHINESE" value="749" />
+        <entry key="ENGLISH" value="750" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
