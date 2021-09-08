@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SEPTEMBER" />
+      <item value="interval" />
       <item value="eviction" />
       <item value="Scheduled Cache" />
       <item value="Synchronized Cache" />
@@ -53,13 +55,11 @@
       <item value="calculated" />
       <item value="reward valid time data error" />
       <item value="Termination Fail Exception" />
-      <item value="NOTYPE" />
-      <item value="ROUND UP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="749" />
-        <entry key="ENGLISH" value="750" />
+        <entry key="CHINESE" value="751" />
+        <entry key="ENGLISH" value="752" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
