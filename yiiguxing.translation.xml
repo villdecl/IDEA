@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ASSIGN ID" />
       <item value="Sell Rear Dto" />
       <item value="SEPTEMBER" />
       <item value="interval" />
@@ -54,12 +55,11 @@
       <item value="DEFAULT DISCOUNT DIVISOR" />
       <item value="member cart" />
       <item value="calculated" />
-      <item value="reward valid time data error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="752" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="753" />
+        <entry key="ENGLISH" value="754" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
