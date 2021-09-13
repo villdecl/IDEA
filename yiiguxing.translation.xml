@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Conflicting Bean Definition Exception" />
       <item value="declaration" />
       <item value="duplicate" />
       <item value="duplicate declaration of version" />
@@ -54,12 +55,11 @@
       <item value="ordinal date" />
       <item value="bulk" />
       <item value="Deprecated" />
-      <item value="Attempts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="759" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="CHINESE" value="760" />
+        <entry key="ENGLISH" value="761" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
