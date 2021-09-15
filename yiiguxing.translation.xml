@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Token Credentials Extractor" />
       <item value="Conflicting Bean Definition Exception" />
       <item value="declaration" />
       <item value="duplicate" />
@@ -54,7 +55,6 @@
       <item value="bulk Update" />
       <item value="ordinal date" />
       <item value="bulk" />
-      <item value="Deprecated" />
     </histories>
     <option name="languageScores">
       <map>
@@ -83,5 +83,12 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1631512547013" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
