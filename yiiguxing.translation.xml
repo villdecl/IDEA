@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="549" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="scrap allot add inventory" />
+      <item value="allot add inventory" />
+      <item value="purchase add inventory" />
       <item value="Token Credentials Extractor" />
       <item value="Conflicting Bean Definition Exception" />
       <item value="declaration" />
@@ -52,14 +55,11 @@
       <item value="IMMEDIATE" />
       <item value="fetch Source Includes" />
       <item value="Index Coordinates" />
-      <item value="bulk Update" />
-      <item value="ordinal date" />
-      <item value="bulk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="761" />
-        <entry key="ENGLISH" value="762" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="765" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
